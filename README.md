@@ -1,4 +1,4 @@
-# Discord Nitro Simulated
+# Discord Nitro Simulator
 #### Client side discord nitro
 
 # How To Use:
