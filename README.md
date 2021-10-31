@@ -1,5 +1,5 @@
 # OUTDATE!!
-## Discord has patched webpackJsonp so this hack will not work since 10/22!
+## Discord has patched this hack so it will not work after 10/22/2021
 # Discord Nitro Simulator
 #### Client side discord nitro
 
