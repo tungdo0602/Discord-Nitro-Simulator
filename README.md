@@ -1,5 +1,5 @@
-# OUTDATE!!
-## Discord has patched this hack so it will not work after 10/22/2021
+# UPDATE!!!!
+# WORKED AGAIN THANKS @steinhorror FOR THE CODE (his github: https://github.com/steinhorror)
 # Discord Nitro Simulator
 #### Client side discord nitro
 
@@ -7,7 +7,5 @@
 #### 1. open Developer tools by press f12 or press Ctrl + Shift + I
 #### 2. paste this code to the console tab and press enter!
 ```javascript
-Object.values(webpackJsonp.push([[],{[''] :(_,e,r)=>{e.cache=r.c}},
-[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getCurrentUser!==void
-0).exports.default.getCurrentUser().premiumType = 2
+window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {if (m.default && m.default.getCurrentUser !== undefined) {return m.default.getCurrentUser().premiumType = 2;}if (m.getCurrentUser !== undefined) {return m.getCurrentUser().premiumType = 2}}}]);
 ```
