@@ -1,7 +1,7 @@
 # UPDATE!!!!
 # WORKED AGAIN THANKS @steinhorror FOR THE Template CODE (his github: https://github.com/steinhorror) and also can use animated emoji correctly (server only, dm not working)
 # Discord Nitro Simulator
-#### Client side discord nitro
+### Client side discord nitro
 
 # How To Use:
 #### 1. open Developer tools by press f12 or press Ctrl + Shift + I
