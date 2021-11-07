@@ -1,5 +1,5 @@
 # UPDATE!!!!
-# WORKED AGAIN THANKS @steinhorror FOR THE Template CODE (his github: https://github.com/steinhorror) and also can use animated emoji correctly (server only, dm not working)
+# WORKED AGAIN THANKS @steinhorror FOR THE webpack fix (his github: https://github.com/steinhorror) and also can use animated emoji correctly (server only, dm not working)
 # Discord Nitro Simulator
 ### Client side discord nitro
 
