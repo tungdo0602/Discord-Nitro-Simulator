@@ -1,5 +1,5 @@
 # UPDATE!!!!
-# WORKED AGAIN THANKS @steinhorror FOR THE CODE (his github: https://github.com/steinhorror)
+# WORKED AGAIN THANKS @steinhorror FOR THE Template CODE (his github: https://github.com/steinhorror)
 # Discord Nitro Simulator
 #### Client side discord nitro
 
