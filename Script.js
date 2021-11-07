@@ -1,5 +1,2 @@
 window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {if (m.default && m.default.getCurrentUser !== undefined) {return m.default.getCurrentUser().premiumType = 2;}if (m.getCurrentUser !== undefined) {return m.getCurrentUser().premiumType = 2}}}]);
-/* 2 = Nitro Boost
-   1 = Nitro Classic
-   0 = Normal
-*/
+window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {if (m.default && m.default.canUseAnimatedEmojis !== void 0) {return m.default.canUseAnimatedEmojis("" + true) + true;}if (m.canUseAnimatedEmojis !== void 0) {return m.canUseAnimatedEmojis("" + true) + true}}}]);
