@@ -1,7 +1,9 @@
 # UPDATE!!!!
-# WORKED AGAIN THANKS @steinhorror FOR THE webpack fix (his github: https://github.com/steinhorror) and also can use animated emoji correctly (server only, dm not working)
+# WORKED AGAIN THANKS also can use animated emoji (server only, dm not working)
 # Discord Nitro Simulator
 ### Client side discord nitro
+
+# **Credit:** steinhorror for the webpack fix part (https://github.com/steinhorror), psauxx for the animated emoji part (https://github.com/psauxx)
 
 # How To Use:
 #### 1. open Developer tools by press f12 or press Ctrl + Shift + I
