@@ -1,8 +1,5 @@
-# UPDATE!!!!
-# WORKED AGAIN you can use animated emoji (if your server have NQN Bot, dm not working)
 # Discord Nitro Simulator
 ### Client side discord nitro
-
 # **Credit:** steinhorror for the webpack fix part (https://github.com/steinhorror)
 
 # How To Use:
