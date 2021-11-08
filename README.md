@@ -1,9 +1,9 @@
 # UPDATE!!!!
-# WORKED AGAIN THANKS also can use animated emoji (some server can use, dm not working)
+# WORKED AGAIN THANKS also can use animated emoji (dm not working)
 # Discord Nitro Simulator
 ### Client side discord nitro
 
-# **Credit:** steinhorror for the webpack fix part (https://github.com/steinhorror), psauxx for the animated emoji part (https://github.com/psauxx)
+# **Credit:** steinhorror for the webpack fix part (https://github.com/steinhorror), psauxx for the animated emoji part (https://github.com/psauxx) (currency animated are not work it just working if your server have NQN bot)
 
 # How To Use:
 #### 1. open Developer tools by press f12 or press Ctrl + Shift + I
