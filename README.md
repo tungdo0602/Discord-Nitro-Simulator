@@ -1,5 +1,5 @@
 # Discord Nitro Simulator
-### Client side discord nitro
+### Client side **Discord Nitro**
 # **Credit:** steinhorror for the webpack fix part (https://github.com/steinhorror)
 
 # How To Use:
