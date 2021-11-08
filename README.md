@@ -1,5 +1,5 @@
 # UPDATE!!!!
-# WORKED AGAIN THANKS also can use animated emoji (server only, dm not working)
+# WORKED AGAIN THANKS also can use animated emoji (some server can use, dm not working)
 # Discord Nitro Simulator
 ### Client side discord nitro
 
