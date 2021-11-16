@@ -1,7 +1,5 @@
 # Discord Nitro Simulator
 ### Client side **Discord Nitro**
-# **Credit:** steinhorror for the webpack fix part (https://github.com/steinhorror)
-
 # How To Use:
 #### 1. open Developer tools by press f12 or press Ctrl + Shift + I
 #### 2. paste this code to the console tab and press enter!
